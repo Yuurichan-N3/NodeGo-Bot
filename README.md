@@ -13,8 +13,9 @@ NodeGo Automation Bot adalah skrip Python untuk otomatisasi check-in dan penyele
 ## 🏗️ Instalasi
 Sebelum menjalankan skrip, pastikan Anda memiliki Python 3.10 dan menginstal dependensi berikut:
 
-```bash
+```sh
 pip install -r requirements.txt
+
 
 🚀 Cara Penggunaan
 
