@@ -61,11 +61,14 @@ Untuk menggunakan proxy pribadi, simpan daftar proxy di proxy.txt.
 Untuk menggunakan proxy gratis, simpan daftar proxy di proxyshare.txt.
 
 
-📜 Lisensi
+## 📜 Lisensi  
 
-Proyek ini dibuat [Oleh](https://t.me/sentineldiscus). Silakan gunakan dengan bijak.
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
+
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
 
 
 ---
 
-💡 Disclaimer: Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
+## 💡 Disclaimer
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
