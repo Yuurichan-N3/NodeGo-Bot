@@ -63,7 +63,7 @@ Untuk menggunakan proxy gratis, simpan daftar proxy di proxyshare.txt.
 
 📜 Lisensi
 
-Proyek ini dibuat oleh [Kelompok](https://t.me/sentineldiscus). Silakan gunakan dengan bijak.
+Proyek ini dibuat [Oleh](https://t.me/sentineldiscus). Silakan gunakan dengan bijak.
 
 
 ---
