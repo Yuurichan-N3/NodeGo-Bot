@@ -1,4 +1,5 @@
-# NodeGo Automation Bot
+with open("/mnt/data/README.md", "w") as f:
+    f.write("""# NodeGo Automation Bot
 
 ## 📌 Deskripsi
 NodeGo Automation Bot adalah skrip Python untuk otomatisasi check-in dan penyelesaian tugas pada platform NodeGo. Skrip ini menggunakan multi-threading untuk menangani banyak akun sekaligus dan mendukung penggunaan proxy untuk meningkatkan anonimitas.
@@ -11,11 +12,11 @@ NodeGo Automation Bot adalah skrip Python untuk otomatisasi check-in dan penyele
 - **Progress bar & logging** untuk memantau proses eksekusi.
 
 ## 🏗️ Instalasi
-Sebelum menjalankan skrip, pastikan Anda memiliki Python 3.10 dan menginstal dependensi berikut:
+Sebelum menjalankan skrip, pastikan Anda memiliki Python 3.x dan menginstal dependensi berikut:
 
-```sh
+```bash
 pip install -r requirements.txt
-
+```
 
 ## 🚀 Cara Penggunaan
 
@@ -60,7 +61,7 @@ Pastikan file data.txt berisi token akun yang valid.
 
 Untuk menggunakan proxy pribadi, simpan daftar proxy di proxy.txt.
 
-Untuk menggunakan proxy gratis, simpan daftar proxy di proxyshare.txt (not working).
+Untuk menggunakan proxy gratis, simpan daftar proxy di proxyshare.txt.
 
 
 📜 Lisensi
