@@ -162,7 +162,7 @@ class NodeGoAutomation:
                             timeout=15
                         )
                         self.log_info(f"Ping sent for {email}")
-                        time.sleep(90)
+                        time.sleep(180)
                     except Exception as e:
                         self.log_error(f"Ping failed for {email}: {str(e)}")
                         break
