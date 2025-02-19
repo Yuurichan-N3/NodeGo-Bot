@@ -17,7 +17,7 @@ Sebelum menjalankan skrip, pastikan Anda memiliki Python 3.10 dan menginstal dep
 pip install -r requirements.txt
 
 
-🚀 Cara Penggunaan
+## 🚀 Cara Penggunaan
 
 1. Siapkan akun & token
 
