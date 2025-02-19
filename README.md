@@ -1,6 +1,3 @@
-with open("/mnt/data/README.md", "w") as f:
-    f.write("""# NodeGo Automation Bot
-
 ## 📌 Deskripsi
 NodeGo Automation Bot adalah skrip Python untuk otomatisasi check-in dan penyelesaian tugas pada platform NodeGo. Skrip ini menggunakan multi-threading untuk menangani banyak akun sekaligus dan mendukung penggunaan proxy untuk meningkatkan anonimitas.
 
